@@ -1,5 +1,5 @@
 
-CREATE DATABASE SalesMarket;
+CREATE DATABASE MarketCo ;
 
 USE MarketCo ;
 
